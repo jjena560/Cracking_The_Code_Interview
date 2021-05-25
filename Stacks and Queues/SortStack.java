@@ -2,6 +2,7 @@
 import java.util.*;
 
 class SortStack {
+    // stack
 
     public static Stack<Integer> sortstack(Stack<Integer> input) {
         Stack<Integer> tmpStack = new Stack<Integer>();
