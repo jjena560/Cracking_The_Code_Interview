@@ -8,7 +8,7 @@ class Node {
     }
 }
 
-class MinimalTree {
+public class MinimalTree {
     static Node root;
 
     public static Node arrayToBST(int[] arr, int start, int end) {
