@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "Tress and Graphs",
         "Stacks and Queues",
         "LinkedLists",
         "Arrays and Strings",
-        "Tress and Graphs"
+        "Bit Manipulation"
     ]
 }
