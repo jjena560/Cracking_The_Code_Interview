@@ -2,8 +2,10 @@
     "java.project.sourcePaths": [
         "Tress and Graphs",
         "Stacks and Queues",
+        "Object-Oriented Design/DeckOfCards",
         "LinkedLists",
+        "Bit Manipulation",
         "Arrays and Strings",
-        "Bit Manipulation"
+        "Object-Oriented Design/Call Center"
     ]
 }
