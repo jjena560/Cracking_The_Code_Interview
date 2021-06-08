@@ -2,10 +2,12 @@
     "java.project.sourcePaths": [
         "Tress and Graphs",
         "Stacks and Queues",
+        "Object-Oriented Design/Parking Lot",
         "Object-Oriented Design/DeckOfCards",
+        "Object-Oriented Design/Call Center",
         "LinkedLists",
         "Bit Manipulation",
         "Arrays and Strings",
-        "Object-Oriented Design/Call Center"
+        "Object-Oriented Design/OnlineBookReader"
     ]
 }
